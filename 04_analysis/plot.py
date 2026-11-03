@@ -1,0 +1,3 @@
+from pathlib import Path
+import pandas as pd, matplotlib.pyplot as plt
+root=Path('work/sci-writing-harness/papers/2026-10-31-diabetes-screening'); df=pd.read_csv(root/'04_analysis/results/screening_metrics.csv').iloc[:4]; names=['Sensitivity','Specificity','Positive predictive value','Negative predictive value']; fig,ax=plt.subplots(figsize=(7.2,3.5)); y=range(len(df)); ax.errorbar(df.estimate,y,xerr=[df.estimate-df.lower,df.upper-df.estimate],fmt='o',capsize=4,color='#155f75'); ax.set_yticks(list(y),names); ax.invert_yaxis(); ax.set_xlim(0,1.02); ax.set_xlabel('Survey-weighted proportion (95% CI)'); ax.set_title('NDS threshold ≥28: screening performance'); ax.grid(axis='x',alpha=.25); fig.tight_layout(); fig.savefig('outputs/NDS筛查性能.png',dpi=300); plt.close(fig)
