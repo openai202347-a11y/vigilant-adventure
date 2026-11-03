@@ -1,0 +1,6 @@
+R: R version 4.5.3 (2026-03-11 ucrt)
+survey: 4.5
+foreign: 0.8.91
+AUC: point estimate only; 95% CI unavailable.
+Subgroup intervals may be unstable and are exploratory.
+Pregnancy status publicly available only for women aged 20-44; 45-74 cannot be classified as not pregnant.
