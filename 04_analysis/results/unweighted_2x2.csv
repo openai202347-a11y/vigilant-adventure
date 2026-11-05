@@ -1,0 +1,5 @@
+"score_class","outcome","Freq"
+"Screen negative","HbA1c <6.5",1424
+"Screen positive","HbA1c <6.5",2277
+"Screen negative","HbA1c >=6.5",7
+"Screen positive","HbA1c >=6.5",86

@@ -1,0 +1,2 @@
+"metric","estimate","lower","upper","n","events","note"
+"Weighted AUC",0.729804115670045,NA,NA,3794,93,"95% CI not estimated; design-consistent resampling not implemented"

@@ -1,0 +1,17 @@
+population,category,count
+Age 25-74,DIQ010: Yes,850
+Age 25-74,DIQ010: No,5340
+Age 25-74,DIQ010: Borderline,220
+Age 25-74,DIQ010: Refused,0
+Age 25-74,DIQ010: Do not know,0
+Age 25-74,DIQ010: missing,1
+Women 25-44 without diagnosed diabetes,Pregnancy: Pregnant,32
+Women 25-44 without diagnosed diabetes,Pregnancy: Not pregnant,862
+Women 25-44 without diagnosed diabetes,Pregnancy: Indeterminate,335
+Women 25-44 without diagnosed diabetes,Pregnancy: missing,0
+After pregnancy criteria,HbA1c missing,1037
+After HbA1c criteria,BMI missing,40
+After HbA1c criteria,BMI below 18,27
+After BMI criteria,Hypertension indeterminate,75
+After BMI criteria,Systolic pressure unavailable,90
+After BMI criteria,Diastolic pressure unavailable,90

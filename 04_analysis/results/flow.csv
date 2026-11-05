@@ -1,0 +1,9 @@
+"stage","remaining","excluded"
+"All interview records",11933,0
+"Age 25-74",6411,5522
+"No self-reported diabetes (DIQ010=2)",5340,1071
+"Pregnancy: exclude known and unknown among women 25-44",4973,367
+"HbA1c available",3936,1037
+"BMI >=18 and available",3869,67
+"NDS blood pressure component available",3794,75
+"Valid sampling design and blood weight",3794,0

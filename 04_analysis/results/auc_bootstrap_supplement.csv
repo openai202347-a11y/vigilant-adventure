@@ -1,0 +1,2 @@
+"estimate","se","lower","upper","df","replicates","seed","method"
+0.729804115670045,0.0223528068080601,0.68216023575702,0.77744799558307,15,2000,20261031,"Stratified PSU rescaled bootstrap, normal-on-AUC CI using t critical value; supplemental approximation"
